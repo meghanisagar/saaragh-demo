@@ -3,6 +3,10 @@
 A Demo of React App
 
 
+# App preview Link
+https://saaragh-demo.vercel.app/
+
+
 # App Functionality
 1. fetch Product data from API and display in form of slider
 2. show Product details / Error / Loader accoring to API responce
